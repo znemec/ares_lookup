@@ -1,0 +1,13 @@
+{
+    "name": "ares/ares",
+    "description": "lookup",
+    "authors": [
+        {
+            "name": "Zdenek Nemec",
+            "email": "zdenek@nemec.pro"
+        }
+    ],
+    "require": {
+        "catfan/medoo": "^1.7"
+    }
+}

@@ -1,0 +1,65 @@
+body {
+padding-top: 3.5rem;
+}
+hr {
+border-top: 1px solid #839496;
+}
+h1 {
+text-align: center;
+}
+.navbar-dark .navbar-nav .nav-link {
+font-size: 1.5rem;
+}
+.bg-dark {
+background-color: #102b36 !important;
+}
+.fa {
+padding-right: 5px;
+}
+.jumbotron {
+padding: 3.5rem 1rem;
+margin-top: 3rem;
+}
+.far {
+margin-bottom: 1rem;
+}
+.table-light, .table-light>th, .table-light>td {
+background-color: #ffffff;
+}
+.td-light {
+border-right: 1px solid #75888a;
+border-left: 1px solid #75888a;
+}
+.td-secondary {
+border-right: 1px solid #ffffff;
+border-left: 1px solid #ffffff;
+}
+.idtime {
+font-size: 2rem;
+display: block;
+text-align: center;
+}
+.footer {
+position: fixed;
+bottom: 0;
+width: 100%;
+background-color: #073642;
+}
+.container {
+margin-bottom: 50px;
+}
+.contact_info {
+font-size: 1.5rem;
+padding-bottom: 20px;
+line-height: 2;
+}
+.ico-box {
+padding: 10px;
+text-align: center;
+margin-bottom: 5px;
+}
+@media (max-width: 767px){
+.btn-group {
+display: grid;
+}
+}
